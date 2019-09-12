@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LHDemoUHF</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="connect">connect MCU</string>
+	<string name="id">ID</string>
+	<string name="count">   count</string>
+	<string name="inventory">Start</string>
+	<string name="stop_inventory">Stop Inventory</string>
+	<string name="clear">Clear</string>
+	
+	<string name="setting">setting</string>
+	<string name="rw">r/w card</string>
+	<string name="exit">exit</string>
+	<string name="pwrback">Back</string>
+	<string name="txt_tag_count">tag count:</string>
+	
+	<string name="membank">Membank</string>
+	<string name="accesspassword">Access Password</string>
+	<string name="addr">Address(word)</string>
+	<string name="len">Length(word)</string>
+	<string name="read">Read Tag</string>
+	<string name="write">Write Tag</string>
+	<string name="setpower">Set Power</string>
+	<string name="getpower">Get Power</string>
+	<string name="writedata">Write Data(HEX)</string>
+	<string name="pwrdata">Power:</string>
+	<string name="locktype">Lock Type</string>
+	<string name="locktag">Lock Tag</string>
+	<string name="kill">Kill Tag</string>
+	<string name="killpassword">Kill Password</string>
+	<string name="readdata">Read Data</string>
+	<string name="back">Back</string>
+	<string name="parameterSetting">Parameter Setting</string>
+	<string name="sensitivity">Sensitivity</string>
+	<string name="set">set</string>
+	<string name="rfPower">RF power</string>
+	<string name="workArea">Work Area</string>
+    <string name="freqSetting">Freq setting</string>
+    <string name="china2Freq">China2：920125kHz~924875kHz</string>
+    <string name="usaFreq">USA：902250kHz~927750kHz</string>
+    <string name="euFreq">Europe：865100kHz~867900kHz</string>
+    <string name="china1Freq">China1：840125kHz~844875kHz</string>
+    <string name="koreaFreq">Korea：917700kHz~923300kHz</string>
+    <string name="setSuccess">Set success</string>
+    <string name="freqNotNull">Frequency not null</string>
+
+    
+    <string name="about_msg">
+Serial Port API sample v1.1\n
+\n
+This program is the sample application provided with project android-serialport-api.\n
+\n
+More information and bug report on [http://code.google.com/p/android-serialport-api]\n
+\n
+Copyright 2010-2011 Cedric Priscal\n
+\n
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at\n
+\n
+http://www.apache.org/licenses/LICENSE-2.0\n
+\n
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.\n
+	</string>
+    <string name="error_configuration">Please configure your serial port first.</string>
+    <string name="error_security">You do not have read/write permission to the serial
+		port.</string>
+    <string name="error_unknown">The serial port can not be opened for an unknown
+		reason.</string>
+
+    <string name="start_scan">start</string>
+    <string name="stop_scan">stop</string>
+    <string name="warn_power_out">Power range 15-26</string>
+    <string name="get_power_success">Get Power Success</string>
+    <string name="get_power_fail">Get Power Fail</string>
+    <string name="set_power_success">Set Power Success</string>
+	<string name="set_power_fail">Set Power Fail</string>
+	<string name="set_channel_success">Set Work Channel Success</string>
+	<string name="set_channel_fail">Set Work Channel Fail</string>
+	<string name="get_channel_success">Get Work Channel Success</string>
+	<string name="get_channel_fail">Get Work Channel Fail</string>
+	<string name="set_param_success">Set Model Param Success</string>
+	<string name="set_param_fail">Set Model Param Fail</string>
+	<string name="get_param_success">Get Model Param Success</string>
+	<string name="get_param_fail">Get Model Param Fail</string>
+	
+	<string name="baud_rate_def">115200</string>
+	<string name="parity_check_def">None</string>
+	<string name="stop_bits_def">1</string>
+	<string name="data_bits_def">8</string>
+	<string name="flow_control_def">None</string>
+	
+	<string name="gpio_number_def">75</string>
+	
+    <string name="workinfo">Work channel:</string>
+    <string name="setworkinfo">Set work channel</string>
+    <string name="getworkinfo">Get work channel</string>
+    <string name="threshold">Signal demodulation threshold:</string>
+    <string name="setthreshold">Set threshold</string>
+    <string name="getthreshold">Get threshold</string>
+    <string name="setselect">Set Select</string>
+	<string name="warn_power_null">warn_power_null</string>
+	<string name="input_null">Input null</string>
+
+
+</resources>

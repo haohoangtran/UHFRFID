@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item.xml.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_compose_icon_nextlevel.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-hdpi\\compose_icon_nextlevel.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_black_24dp.xml.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corners_background.xml.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable\\corners_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\raw_msg.mp3.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\raw\\msg.mp3"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rfid.xml.flat",
+        "source": "C:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\src\\main\\res\\layout\\activity_rfid.xml"
+    }
+]

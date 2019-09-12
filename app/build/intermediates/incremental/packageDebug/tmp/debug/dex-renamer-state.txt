@@ -1,0 +1,4 @@
+#Thu Sep 12 08:58:15 ICT 2019
+base.0=C\:\\Users\\tranh\\Documents\\RFID-40505W-M\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

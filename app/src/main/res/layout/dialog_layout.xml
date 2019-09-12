@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+     <TextView
+         android:text="gpio1 number" 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content" />
+    
+    <EditText
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:inputType="number"
+         android:hint="请输入gpio号"
+         android:id="@+id/et_gpio1"/>
+    
+     <TextView
+         android:text="gpio2 number" 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content" />
+     
+     <EditText
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:inputType="number"
+         android:hint="请输入gpio号"
+         android:id="@+id/et_gpio2"/>
+     
+     <TextView
+         android:text="serial name" 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content" />
+     
+     <EditText
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:inputType="textAutoCorrect"
+         android:hint="请输入串口名"
+         android:id="@+id/et_serial_num"/>
+</LinearLayout>
