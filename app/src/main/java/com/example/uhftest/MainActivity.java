@@ -562,7 +562,7 @@ public class MainActivity extends Activity implements OnItemClickListener {
 	}
 	
 	private void ShowCount() {
-		tag_count.setText("标签数量:" + listEPC.size());
+		tag_count.setText("Tag count:" + listEPC.size());
 	}
 
 	private void onDataReceived(final byte[] buffer, final int size) {
